@@ -1,80 +1,83 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<Myself>
-    <Name>TARANJIT KAUR</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>shopping</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>yesha</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-     <Name>nikita</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>shreyansha</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>karan</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>yesh</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>deep</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>harsh</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>ponnu</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>TARANJIT</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-    <Name>TARAN</Name>
-    <MyHobby>
-        <Hobby>Reading books</Hobby>
-        <Hobby>gardening</Hobby>
-        <Hobby>photography</Hobby>
-        <Hobby>painting</Hobby>
-    </MyHobby>
-</Myself>
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+    <Person>
+        <Name>Taran</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>yesha</Name>
+        <Hobbies>
+            <Hobby>Painting</Hobby>
+            <Hobby>Cycling</Hobby>
+            <Hobby>Photography</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Nikita</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Maninder</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Taran</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Sandeep</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Raman</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>deep</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Karan</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Shreyansh</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+</People>
