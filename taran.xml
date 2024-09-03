@@ -70,4 +70,11 @@
         <Hobby>photography</Hobby>
         <Hobby>painting</Hobby>
     </MyHobby>
+    <Name>TARAN</Name>
+    <MyHobby>
+        <Hobby>Reading books</Hobby>
+        <Hobby>gardening</Hobby>
+        <Hobby>photography</Hobby>
+        <Hobby>painting</Hobby>
+    </MyHobby>
 </Myself>
